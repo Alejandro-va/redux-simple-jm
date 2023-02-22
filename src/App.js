@@ -1,5 +1,5 @@
 import { Provider } from "react-redux";
-import { Contador } from "./components/Contador";
+import Contador from "./components/Contador";
 import TeoriaRedux from "./components/TeroriaRedux";
 import store from "./store";
 
